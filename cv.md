@@ -8,9 +8,9 @@
 * **Discord** - _sleightvrn#5595_
 ******
 #### Socials:
-* **Vkontakte** - _https://vk.com/sleight_insomnia_
-* **GitHub** - _byMontanaMax_
-* **Telegram** - _https://t.me/sleightvrn_
+* **[Vkontakte](https://vk.com/sleight_insomnia)**
+* **[GitHub](https://github.com/byMontanaMax)**
+* **[Telegram](https://t.me/sleightvrn)**
 
 ### About Me:
 _My name is, Maxim and I'm from Russia. Once I tried to write code and I liked it. My goal is to gain knowledge in the field of Frontend development. I believe that if you put in enough effort, you can learn anything. I learned about RSSchool quite recently and immediately signed up for the next training stream. One of my strengths is that I never back down, even if something doesn't work out._
