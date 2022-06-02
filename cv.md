@@ -27,8 +27,9 @@ _My name is, Maxim and I'm from Russia. Once I tried to write code and I liked i
 * Figma
 * Adobe Photoshop
 
+### Education:
+**(2008 - 2014) - Institute of Management Marketing and Finance ***Finance and credit*****
+**(2022 - until now) - RS School JS / FRONT-END. STAGE 0 (RU) ***Junior Frontend Developer*****
 
-Примеры кода
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+### English:
+A1 - Beginner
