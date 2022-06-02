@@ -2,7 +2,7 @@
 ******
 ![My photo](/assets/img/photo.jpg)
 ### Contacts:
-* **Adress:** - _Ruussia, Voronezh_
+* **Adress:** - _Russia, Voronezh_
 * **Phone** - _+7(909)212-41-75_
 * **Email:** - _ilovesleight@gmail.com_
 * **Discord** - _sleightvrn#5595_
