@@ -1,1 +1,1 @@
-https://byMontanaMax.github.io/rsschool-cv/cv
+https://byMontanaMax.github.io/rsschool-cv/
